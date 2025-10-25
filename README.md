@@ -6,14 +6,14 @@
 <div align="center">
   
 # 👋 Hi, I'm **Nayan Malviya**  
-### 🚀 Aspiring Software Engineer
+### Aspiring Software Engineer
 
-💡 Passionate about building secure, scalable, and user-friendly web applications.  
+ Passionate about building secure, scalable, and user-friendly web applications.  
 Currently pursuing **B.Tech (CSE)** and exploring **backend development**.
 
-🌱 **Learning:** Spring Security, REST APIs, JWT Auth  
-💬 **Ask me about:** Java, React, Spring Boot, JSP/Servlets, MySQL  
-📫 **Reach me at:** [naymalviya@gmail.com](mailto:naymalviya@gmail.com)
+ **Learning:** Spring Security, REST APIs, JWT Auth  
+ **Ask me about:** Java, React, Spring Boot, JSP/Servlets, MySQL  
+ **Reach me at:** [naymalviya@gmail.com](mailto:naymalviya@gmail.com)
 
 </div>
 
