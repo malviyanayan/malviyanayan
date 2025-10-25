@@ -3,6 +3,9 @@
 # 👋 Hey there, I'm **Nayan Malviya**  
 ### 🚀 Aspiring Full Stack Developer | Java • React • Spring Boot
 
+<!-- GitHub Banner -->
+<img src="github_banner.png" alt="GitHub Banner" width="600"/>
+
 💡 Passionate about building secure, scalable, and user-friendly web applications.  
 Currently pursuing **B.Tech (CSE)** and exploring **backend development**.
 
@@ -11,6 +14,7 @@ Currently pursuing **B.Tech (CSE)** and exploring **backend development**.
 📫 **Reach me at:** [naymalviya@gmail.com](mailto:naymalviya@gmail.com)
 
 </div>
+
 
 ---
 
