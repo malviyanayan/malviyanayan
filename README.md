@@ -4,7 +4,7 @@
 ### 🚀 Aspiring Full Stack Developer | Java • React • Spring Boot
 
 💡 Passionate about building secure, scalable, and user-friendly web applications.  
-Currently pursuing **B.Tech (CSE)** and exploring **distributed systems**, **backend development**, and **cloud deployment**.
+Currently pursuing **B.Tech (CSE)** and exploring **backend development**.
 
 🌱 **Learning:** Spring Security, REST APIs, JWT Auth  
 💬 **Ask me about:** Java, React, Spring Boot, JSP/Servlets, MySQL  
@@ -39,25 +39,31 @@ Currently pursuing **B.Tech (CSE)** and exploring **distributed systems**, **bac
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
----
+# 🧩 Projects
 
-## 🧩 Projects
-
-### 🧠 [Learnify – E-Learning Platform](https://github.com/malviyanayan/Learnify)
-A full-stack learning platform for purchasing and enrolling in online courses.  
-**Tech:** JSP/Servlets, JDBC, MySQL  
-- Dynamic content delivery & trainer dashboards  
-- Secure database handling with modular architecture
-
-### 🎯 [DoFocus – Self Progress Monitoring Tool](https://dofocus.netlify.app/)
-A productivity web app built using **React** for task tracking and goal management.  
-- JWT-based authentication  
-- Modern UI and responsive layout  
-
-### 🌐 [Portfolio Website](https://nayan-malviya.netlify.app/)
-Showcasing skills, projects, and achievements with a clean React + Bootstrap UI.
+A collection of my web and full-stack projects showcasing my skills in React, JSP/Servlets, HTML, CSS, and JavaScript.
 
 ---
+
+## 🧠 [Learnify – E-Learning Platform](https://github.com/malviyanayan/Learnify_E_Learning_Plateform)  
+Full-stack platform for buying and managing online courses. Built with JSP/Servlets, JDBC, and MySQL.
+
+---
+
+## 🌐 [Smilora – Dental Website](#)  
+Responsive website showcasing dental services, team, and appointment booking. Built with HTML, CSS, and JavaScript.  
+➥ Live Demo: *(add link here)*
+
+---
+
+## 🌐 [Portfolio Website](https://nayan-malviya.netlify.app/)  
+Personal website built with React to showcase skills, projects, and achievements.
+
+---
+
+## 🎯 [DoFocus – Productivity App](https://dofocus.netlify.app/)  
+React-based task tracking and goal management tool with JWT authentication and responsive UI.
+
 
 ## 📜 Certifications & Achievements
 - 🏅 **270+ LeetCode Problems Solved**
