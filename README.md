@@ -59,11 +59,11 @@ Currently pursuing **B.Tech (CSE)** and exploring **backend development**.
 ---
 
 ## 📜 Certifications & Achievements
-- 🏅 **270+ LeetCode Problems Solved**
-- 🎓 SQL (Intermediate) – HackerRank  
-- ⚡ JavaScript & React JS Training – Coding Thinker  
-- 🧩 Cyber Security Essentials – Cisco Netacad  
-- 💡 Participated in Smart India Hackathon 2024 (Internal Hackathon)
+- **270+ LeetCode Problems Solved**
+- SQL (Intermediate) – HackerRank  
+- JavaScript & React JS Training – Coding Thinker  
+- Cyber Security Essentials – Cisco Netacad  
+- Participated in Smart India Hackathon 2024 (Internal Hackathon)
 
 ---
 
@@ -71,6 +71,7 @@ Currently pursuing **B.Tech (CSE)** and exploring **backend development**.
 ![](https://github-readme-stats.vercel.app/api?username=malviyanayan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=malviyanayan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=malviyanayan&theme=dark&hide_border=false&layout=compact)
+![Profile views](https://komarev.com/ghpvc/?username=malviyanayan&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
