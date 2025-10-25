@@ -1,10 +1,12 @@
+<!-- Full width GitHub Banner -->
+<img src="github_banner.png" alt="GitHub Banner" width="100%" style="border-radius: 8px;"/>
+
+<hr>
+
 <div align="center">
   
-# 👋 Hey there, I'm **Nayan Malviya**  
-### 🚀 Aspiring Full Stack Developer | Java • React • Spring Boot
-
-<!-- GitHub Banner -->
-<img src="github_banner.png" alt="GitHub Banner" width="600"/>
+# 👋 Hi, I'm **Nayan Malviya**  
+### 🚀 Aspiring Software Engineer
 
 💡 Passionate about building secure, scalable, and user-friendly web applications.  
 Currently pursuing **B.Tech (CSE)** and exploring **backend development**.
@@ -14,6 +16,7 @@ Currently pursuing **B.Tech (CSE)** and exploring **backend development**.
 📫 **Reach me at:** [naymalviya@gmail.com](mailto:naymalviya@gmail.com)
 
 </div>
+
 
 
 ---
