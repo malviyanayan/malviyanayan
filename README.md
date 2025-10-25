@@ -39,31 +39,17 @@ Currently pursuing **B.Tech (CSE)** and exploring **backend development**.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+
+---
+
 # 🧩 Projects
 
-A collection of my web and full-stack projects showcasing my skills in React, JSP/Servlets, HTML, CSS, and JavaScript.
+- **[Learnify – E-Learning Platform](https://github.com/malviyanayan/Learnify_E_Learning_Plateform)** – Full-stack course platform | Repo: [GitHub](https://github.com/malviyanayan/Learnify_E_Learning_Plateform)  
+- **[Smilora – Dental Website](https://github.com/malviyanayan/smilora)** – Responsive dental site | Repo: [GitHub](https://github.com/malviyanayan/smilora) | Live: [smilora.netlify.app](https://smilora.netlify.app/)  
+- **[Portfolio Website](https://github.com/malviyan/portfolio)** – Personal React site | Repo: [GitHub](https://github.com/malviyan/portfolio) | Live: [nayan-malviya.netlify.app](https://nayan-malviya.netlify.app/)  
+- **[DoFocus – Productivity App](https://github.com/malviyanayan/dofocus)** – Task & goal tracker | Repo: [GitHub](https://github.com/malviyanayan/dofocus) | Live: [dofocus.netlify.app](https://dofocus.netlify.app/)  
 
 ---
-
-## 🧠 [Learnify – E-Learning Platform](https://github.com/malviyanayan/Learnify_E_Learning_Plateform)  
-Full-stack platform for buying and managing online courses. Built with JSP/Servlets, JDBC, and MySQL.
-
----
-
-## 🌐 [Smilora – Dental Website](#)  
-Responsive website showcasing dental services, team, and appointment booking. Built with HTML, CSS, and JavaScript.  
-➥ Live Demo: *(add link here)*
-
----
-
-## 🌐 [Portfolio Website](https://nayan-malviya.netlify.app/)  
-Personal website built with React to showcase skills, projects, and achievements.
-
----
-
-## 🎯 [DoFocus – Productivity App](https://dofocus.netlify.app/)  
-React-based task tracking and goal management tool with JWT authentication and responsive UI.
-
 
 ## 📜 Certifications & Achievements
 - 🏅 **270+ LeetCode Problems Solved**
