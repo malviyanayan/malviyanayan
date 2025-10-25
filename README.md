@@ -1,5 +1,5 @@
 <!-- Full width GitHub Banner -->
-<img src="github_banner.png" alt="GitHub Banner" width="100%" style="border-radius: 8px;"/>
+<img src="github_banner_1.png" alt="GitHub Banner" width="100%" style="border-radius: 8px;"/>
 
 <hr>
 
