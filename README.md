@@ -49,7 +49,7 @@ Currently pursuing **B.Tech (CSE)** and exploring **backend development**.
 
 ---
 
-# 🧩 Projects
+## 🧩 Projects
 
 - **[Learnify – E-Learning Platform](https://github.com/malviyanayan/Learnify_E_Learning_Plateform)** – Full-stack course platform | Repo: [GitHub](https://github.com/malviyanayan/Learnify_E_Learning_Plateform)  
 - **[Smilora – Dental Website](https://github.com/malviyanayan/smilora)** – Responsive dental site | Repo: [GitHub](https://github.com/malviyanayan/smilora) | Live: [smilora.netlify.app](https://smilora.netlify.app/)  
