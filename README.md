@@ -21,7 +21,7 @@ Currently pursuing **B.Tech (CSE)** and exploring **backend development**.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nayanmalviya)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/malviyanayan)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@bytestream_0101)
@@ -30,7 +30,7 @@ Currently pursuing **B.Tech (CSE)** and exploring **backend development**.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -49,7 +49,7 @@ Currently pursuing **B.Tech (CSE)** and exploring **backend development**.
 
 ---
 
-## 🧩 Projects
+## Projects
 
 - **[Learnify – E-Learning Platform](https://github.com/malviyanayan/Learnify_E_Learning_Plateform)** – Full-stack course platform | Repo: [GitHub](https://github.com/malviyanayan/Learnify_E_Learning_Plateform)  
 - **[Smilora – Dental Website](https://github.com/malviyanayan/smilora)** – Responsive dental site | Repo: [GitHub](https://github.com/malviyanayan/smilora) | Live: [smilora.netlify.app](https://smilora.netlify.app/)  
@@ -58,7 +58,7 @@ Currently pursuing **B.Tech (CSE)** and exploring **backend development**.
 
 ---
 
-## 📜 Certifications & Achievements
+## Certifications & Achievements
 - **270+ LeetCode Problems Solved**
 - SQL (Intermediate) – HackerRank  
 - JavaScript & React JS Training – Coding Thinker  
@@ -67,7 +67,7 @@ Currently pursuing **B.Tech (CSE)** and exploring **backend development**.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=malviyanayan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=malviyanayan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=malviyanayan&theme=dark&hide_border=false&layout=compact)
@@ -75,11 +75,11 @@ Currently pursuing **B.Tech (CSE)** and exploring **backend development**.
 
 ---
 
-## ✨ Fun Fact
+## Fun Fact
 > “Every great project starts with curiosity — code, break, and rebuild!”
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=malviyanayan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Created with ❤️ by Nayan Malviya -->
+<!-- Created with  by Nayan Malviya -->
