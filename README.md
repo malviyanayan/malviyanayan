@@ -53,7 +53,7 @@ Currently pursuing **B.Tech (CSE)** and exploring **backend development**.
 
 - **[Learnify – E-Learning Platform](https://github.com/malviyanayan/Learnify_E_Learning_Plateform)** – Full-stack course platform | Repo: [GitHub](https://github.com/malviyanayan/Learnify_E_Learning_Plateform)  
 - **[Smilora – Dental Website](https://github.com/malviyanayan/smilora)** – Responsive dental site | Repo: [GitHub](https://github.com/malviyanayan/smilora) | Live: [smilora.netlify.app](https://smilora.netlify.app/)  
-- **[Portfolio Website](https://github.com/malviyan/portfolio)** – Personal React site | Repo: [GitHub](https://github.com/malviyan/portfolio) | Live: [nayan-malviya.netlify.app](https://nayan-malviya.netlify.app/)  
+- **[Portfolio Website](https://github.com/malviyanayan/portfolio)** – Personal React site | Repo: [GitHub](https://github.com/malviyanayan/portfolio) | Live: [nayan-malviya.netlify.app](https://nayan-malviya.netlify.app/)  
 - **[DoFocus – Productivity App](https://github.com/malviyanayan/dofocus)** – Task & goal tracker | Repo: [GitHub](https://github.com/malviyanayan/dofocus) | Live: [dofocus.netlify.app](https://dofocus.netlify.app/)  
 
 ---
